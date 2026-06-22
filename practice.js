@@ -2,7 +2,7 @@ const num1 = Number(prompt("Enter first number"));
 const operator = prompt("Enter operator (+, -, *, /)");
 const num2 = Number(prompt("Enter second number"));
 
-let result;
+let result; 
 
 switch (operator) {
   case "+":
